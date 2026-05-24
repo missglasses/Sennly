@@ -20,6 +20,9 @@ Source code: Private
 - ➕ Add or remove custom expenses
 - 📥 Export weekly or monthly expenses as CSV files
 - 💡 Clean and user-friendly interface
+-🔒 No login required
+- 💾 Stores data locally in the browser
+
 
 ---
 
